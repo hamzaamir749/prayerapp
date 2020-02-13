@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>204637392243-6bkqpp6g21vt3tlkhh4i2bagg8krlrfm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.204637392243-6bkqpp6g21vt3tlkhh4i2bagg8krlrfm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDvFGTdZrY5tlpe06PKMUBGgFCKoY-AhQo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>204637392243</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.stackbuffers.prayerapp</string>
+	<key>PROJECT_ID</key>
+	<string>prayerapp-38d1b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>prayerapp-38d1b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:204637392243:ios:c3b9f08f54971e4f250906</string>
+	<key>DATABASE_URL</key>
+	<string>https://prayerapp-38d1b.firebaseio.com</string>
+</dict>
+</plist>
